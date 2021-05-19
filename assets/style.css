@@ -1,0 +1,13 @@
+.jumbotron {
+    background-color: black;
+    height: 30px;
+    color: white;
+    
+}
+
+.btn {
+    float: right;
+    display: block;
+    background-color: black;
+    border-color: black;
+}
